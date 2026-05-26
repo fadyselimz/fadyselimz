@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fady Selim 👋</h1>
+<h1 align="center">Hi, I'm Fady Selim </h1>
 
 <p align="center">
   Computer Science Student · AI/ML Learner · Cairo, Egypt
@@ -64,9 +64,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fadyselimz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyselimz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
