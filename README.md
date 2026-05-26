@@ -1,66 +1,86 @@
-<h1 align="center">Hi, I'm Fady Selim </h1>
+<h1 align="center">Hi, I'm Fady Selim 👋</h1>
 
 <p align="center">
-  Computer Science Student · AI/ML Learner · Cairo, Egypt
+  Data Analyst & Software Developer · DEPI Graduate · Cairo, Egypt
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fadyselimz&color=blue&style=flat" alt="profile views" />
+  <a href="https://github.com/fadyselimz">
+    <img src="https://img.shields.io/badge/GitHub-fadyselimz-181717?style=flat&logo=github" />
+  </a>
 </p>
 
 ---
 
-### 🎓 About Me
-
-- 🏛️ CS student at **Capital University** — Faculty of Computers & AI | GPA **3.5 / 4.0 (Excellent)**
-- - 🤖 Currently diving deep into **Python, Machine Learning & Data Analytics**
-- 💻 I build full-stack web apps with **PHP, MySQL, HTML/CSS/JS**
-- 📊 Former **Data Analytics Intern** — Egyptian Ministry of Communications
-- 🧠 I use **Notion** to track everything I learn
-- 📫 Reach me: fadyselim2005@email.com *
+## 🚀 Projects
 
 ---
 
-### 🛠️ Tech Stack
+### 🛒 Egyptian Retail Market Analysis &nbsp;[[GitHub]](https://github.com/fadyselimz/Analysis-for-shopping-in-Egypt) &nbsp;`2025`
 
-**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+> DEPI Graduation Project — Digital Egypt Pioneers Initiative (MCIT)
+
+- Collected primary survey data from 100+ Egyptian consumers via Google Forms, then cleaned and preprocessed the raw dataset using Python (Pandas).
+- Designed and populated a relational SQL Server database from the cleaned data; performed demographic segmentation, cross-tabulations, and digital influence analysis across shopping behaviours and payment preferences.
+- Built an interactive Power BI dashboard to visualise key retail insights, supported by Excel-based statistical summaries for business decision-making.
+
+---
+
+### 🅿️ Smart Urban Parking System &nbsp;[[GitHub]](https://github.com/fadyselimz/parking-slot) &nbsp;`2025`
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Databases & Tools**
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+- Built a full-stack PHP web application with four role-based portals (Driver, Owner, Enforcement Officer, Admin) supporting real-time spot availability, dynamic pricing, and waitlist management.
+- Implemented a 37-table MySQL schema covering reservations, payments, escrow, fines, loyalty tiers, promo codes, and KYC verification, with a custom MVC router — zero external frameworks.
+- Applied OOP design patterns including Observer (reservation notifications), Strategy (payment methods), and Singleton (database connection); produced full UML documentation including ERD, class, sequence, activity, and use-case diagrams.
 
 ---
 
-### 📌 Featured Projects
+### 📚 Library Management System &nbsp;[[GitHub]](https://github.com/fadyselimz/Library-Management-System) &nbsp;`2025`
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🅿️ Smart Urban Parking System](https://github.com/fadyselimz/Parking-Slot) | Multi-role parking platform — bookings, dynamic pricing, enforcement, wallets & loyalty | PHP, MySQL, MVC |
-| [🛒 Cafrour](https://github.com/fadyselimz/Project-it) | E-commerce website inspired by Carrefour | HTML, CSS, JS |
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
----
-
-### 🏅 Certifications
-
-- 🎓 **Supervised Machine Learning** — DeepLearning.AI (Coursera)
-- 🎓 **Advanced Learning Algorithms** — DeepLearning.AI (Coursera)
-- 📊 **Data Analytics Internship** — Egyptian Ministry of Communications
+- Designed and developed a desktop library management application with separate Admin and Patron roles, supporting book borrowing, catalogue management, and notification tracking.
+- Implemented a layered architecture with model, view, and repository packages; managed persistent data across CSV files for users, books, checkout history, and notifications.
+- Produced complete system analysis including use-case, class, sequence, and activity diagrams alongside a structured software requirements specification.
 
 ---
 
+### 🏥 Healthcare Network Design &nbsp;[[GitHub]](https://github.com/fadyselimz/healthcare-network) &nbsp;`2025`
+
+![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+
+- Designed and implemented a fully functional multi-site healthcare network in Cisco Packet Tracer, applying VLSM for efficient IP address allocation across all subnets.
+- Configured core network services including DHCP, DNS, a web server, VLANs, NAT (Static & PAT), VPN tunnelling, and static routing to ensure complete inter-network reachability.
+- Validated end-to-end connectivity across all network segments using ICMP testing and simulation mode, and documented all configurations, routing tables, and NAT translation tables in a formal project report.
+
+---
+
+## 🧰 Tech Stack
+
+| Domain | Tools |
+|--------|-------|
+| Data Analysis | Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, Power BI |
+| Databases | SQL Server (T-SQL), MySQL |
+| Backend | PHP (MVC, vanilla), Java |
+| Networking | Cisco Packet Tracer, VLSM, VLAN, NAT, VPN, DNS, DHCP |
+| Other | Google Forms, Jupyter Notebook, Git, draw.io |
+
+---
+
+## 🎓 Education & Certifications
+
+- **Digital Egypt Pioneers Initiative (DEPI)** — Data Analysis Track, MCIT Egypt `2025`
+
+---
+
+<p align="center">
+  <i>Open to data analyst and junior developer roles. Feel free to reach out!</i>
+</p>
