@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fady Selim 👋</h1>
 
 <p align="center">
-  Computer Science Student · PHP & Web Developer · AI/ML Learner · Cairo, Egypt
+  Computer Science Student · AI/ML Learner · Cairo, Egypt
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 ### 🎓 About Me
 
 - 🏛️ CS student at **Capital University** — Faculty of Computers & AI | GPA **3.5 / 4.0 (Excellent)**
+- - 🤖 Currently diving deep into **Python, Machine Learning & Data Analytics**
 - 💻 I build full-stack web apps with **PHP, MySQL, HTML/CSS/JS**
-- 🤖 Currently diving deep into **Python, Machine Learning & Data Analytics**
 - 📊 Former **Data Analytics Intern** — Egyptian Ministry of Communications
 - 🧠 I use **Notion** to track everything I learn
-- 📫 Reach me: fadyselim@email.com *(update this)*
+- 📫 Reach me: fadyselim2005@email.com *
 
 ---
 
