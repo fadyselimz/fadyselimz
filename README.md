@@ -4,6 +4,11 @@
   Data Analyst & Software Developer · DEPI Graduate · Cairo, Egypt
 </p>
 
+<p align="center">
+  <a href="https://github.com/fadyselimz">
+    <img src="https://img.shields.io/badge/GitHub-fadyselimz-181717?style=flat&logo=github" />
+  </a>
+</p>
 
 ---
 
