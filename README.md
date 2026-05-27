@@ -78,9 +78,11 @@
 ## 🎓 Education & Certifications
 
 - **Digital Egypt Pioneers Initiative (DEPI)** — Data Analysis Track, MCIT Egypt `2025`
-
+- **Supervised Machine learning ** —Machine learning Track, Deeplearing.AI Stanford online `2026`
+- **Advanced learing Algorithms ** —Machine learning Track, Deeplearing.AI Stanford online `2026`
+  
 ---
 
 <p align="center">
-  <i>Open to data analyst and junior developer roles. Feel free to reach out!</i>
+  <i>Open to ML roles. Feel free to reach out!</i>
 </p>
